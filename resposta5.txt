@@ -1,0 +1,9 @@
+5) Considere o cenário em que você está trabalhando em um projeto de site com sua dupla. Qual seria sua abordagem inicial para organizar as tarefas, escolher ferramentas e implementar boas práticas de versionamento e desenvolvimento?
+
+Seguiríamos os seguintes passos:
+
+- Planejamento inicial com definição de objetivos e de requisitos funcionais. Além de criar um esboço e dividir as tarefas.
+
+- Escolha das ferramentas como editor de ódigo, versionamento de código e tecnologias utilizadas.
+
+- Criar um repositório Git e configurar um fluxo de trabalho padrão para manter tudo organizado.
